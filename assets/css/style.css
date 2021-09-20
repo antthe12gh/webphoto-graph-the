@@ -55,9 +55,9 @@ body{
 
 
 }
-.ourwork-right{
-    background-image: url('/assets/img/ourwork.png');
-    width: 520px;
+/* .ourwork-right{
+    /* background-image: url('/assets/img/ourwork.png'); */
+    /* width: 520px;
     min-width: 500px;
     height: 100vh;
     background-position: center;
@@ -65,8 +65,9 @@ body{
     background-repeat: no-repeat;
     flex: 0 1 60vw;
     margin: 0;
+    background-color: none;
    
-}
+} */
 .ourwork{
     background-color: #333;
     text-align: center;
